@@ -1,5 +1,4 @@
 # IGCROI-GANet
 
-Our manuscript is in the process of being submitted and we will upload the full code once the manuscript is accepted.
-If you have any questions, please contact panhuang@cqu.edu.cn.
+It should be noted that since this article is still in the peer-reviewed stage. Right now, the interested readers can only get the code by Email. The code will be given fully accessible at the end of the peer-review stage. For more details or questions, please feel free to contact: panhuang@cqu.edu.cn.
 
