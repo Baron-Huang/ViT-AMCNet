@@ -3,7 +3,7 @@
              Optimization for Interpretable Laryngeal Tumor Grading from Histopathological Images'.
 ###Author: Dr.Pan Huang
 ###E-mail: panhuang@cqu.edu.cn
-###Creating Data:2021.11.29
+###Creating Date:2021.11.29
 ###Department: College of Optoelectronic Engineering, Chongqing University, China.
 '''
 
