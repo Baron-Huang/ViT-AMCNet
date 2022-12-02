@@ -6,3 +6,5 @@ The tumor grading of laryngeal cancer pathological images needs to be accurate a
 
 It should be noted that since this article is still in the peer-reviewed stage. Right now, the interested readers can only get the code by Email. The code will be given fully accessible at the end of the peer-review stage. For more details or questions, please feel free to contact: panhuang@cqu.edu.cn.
 
+#Citing Swin Transformer
+Huang, Pan, et al. "A ViT-AMC Network with Adaptive Model Fusion and Multiobjective Optimization for Interpretable Laryngeal Tumor Grading from Histopathological Images." IEEE Transactions on Medical Imaging (2022).DOI: 10.1109/TMI.2022.3202248
