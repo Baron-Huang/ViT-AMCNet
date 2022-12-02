@@ -1,0 +1,303 @@
+epoch 1  train_FAB_loss:1.013  train_FAB_acc:0.3148  val_FAB_loss:1.776  val_FAB_acc:0.2841  Time:18.6 
+ ________train_ViT_loss:0.8633  train_ViT_acc:0.8048    val_ViT_loss:1.124  val_ViT_acc:0.6871 
+ ________train_Fusion_loss:0.8667  train_Fusion_acc:0.7509    val_Fusion_loss:1.1  val_Fusion_acc:0.6206
+epoch 2  train_FAB_loss:0.9936  train_FAB_acc:0.4736  val_FAB_loss:0.6073  val_FAB_acc:0.3982  Time:18.9 
+ ________train_ViT_loss:0.4736  train_ViT_acc:0.8418    val_ViT_loss:0.4461  val_ViT_acc:0.6123 
+ ________train_Fusion_loss:0.4115  train_Fusion_acc:0.8104    val_Fusion_loss:0.3355  val_Fusion_acc:0.6167
+epoch 3  train_FAB_loss:0.7898  train_FAB_acc:0.567  val_FAB_loss:1.08  val_FAB_acc:0.5804  Time:19.1 
+ ________train_ViT_loss:0.2485  train_ViT_acc:0.9435    val_ViT_loss:0.9467  val_ViT_acc:0.7238 
+ ________train_Fusion_loss:0.2639  train_Fusion_acc:0.915    val_Fusion_loss:0.8998  val_Fusion_acc:0.7408
+epoch 4  train_FAB_loss:0.8976  train_FAB_acc:0.5597  val_FAB_loss:1.261  val_FAB_acc:0.5564  Time:19.2 
+ ________train_ViT_loss:0.1654  train_ViT_acc:0.997    val_ViT_loss:0.612  val_ViT_acc:0.8269 
+ ________train_Fusion_loss:0.1772  train_Fusion_acc:0.97    val_Fusion_loss:0.6128  val_Fusion_acc:0.7889
+epoch 5  train_FAB_loss:1.062  train_FAB_acc:0.5595  val_FAB_loss:0.7359  val_FAB_acc:0.4694  Time:19.2 
+ ________train_ViT_loss:0.04911  train_ViT_acc:1.0    val_ViT_loss:0.4737  val_ViT_acc:0.8269 
+ ________train_Fusion_loss:0.04374  train_Fusion_acc:0.9985    val_Fusion_loss:0.3181  val_Fusion_acc:0.7985
+epoch 6  train_FAB_loss:1.06  train_FAB_acc:0.6025  val_FAB_loss:1.101  val_FAB_acc:0.6145  Time:19.1 
+ ________train_ViT_loss:0.05994  train_ViT_acc:1.0    val_ViT_loss:0.6422  val_ViT_acc:0.8086 
+ ________train_Fusion_loss:0.04697  train_Fusion_acc:1.0    val_Fusion_loss:0.5681  val_Fusion_acc:0.823
+epoch 7  train_FAB_loss:0.8015  train_FAB_acc:0.6256  val_FAB_loss:1.047  val_FAB_acc:0.5747  Time:19.0 
+ ________train_ViT_loss:0.01233  train_ViT_acc:0.9985    val_ViT_loss:0.5663  val_ViT_acc:0.837 
+ ________train_Fusion_loss:0.009826  train_Fusion_acc:0.9985    val_Fusion_loss:0.5374  val_Fusion_acc:0.8199
+epoch 8  train_FAB_loss:0.7026  train_FAB_acc:0.6735  val_FAB_loss:1.144  val_FAB_acc:0.5804  Time:18.9 
+ ________train_ViT_loss:0.005994  train_ViT_acc:1.0    val_ViT_loss:0.3172  val_ViT_acc:0.7758 
+ ________train_Fusion_loss:0.005106  train_Fusion_acc:0.9926    val_Fusion_loss:0.291  val_Fusion_acc:0.7745
+epoch 9  train_FAB_loss:0.9101  train_FAB_acc:0.6344  val_FAB_loss:0.5226  val_FAB_acc:0.5997  Time:19.0 
+ ________train_ViT_loss:0.02171  train_ViT_acc:1.0    val_ViT_loss:0.5074  val_ViT_acc:0.7928 
+ ________train_Fusion_loss:0.02152  train_Fusion_acc:1.0    val_Fusion_loss:0.346  val_Fusion_acc:0.7701
+epoch 10  train_FAB_loss:0.7122  train_FAB_acc:0.6743  val_FAB_loss:1.232  val_FAB_acc:0.559  Time:19.0 
+ ________train_ViT_loss:0.002752  train_ViT_acc:1.0    val_ViT_loss:0.3856  val_ViT_acc:0.7758 
+ ________train_Fusion_loss:0.002996  train_Fusion_acc:0.9985    val_Fusion_loss:0.329  val_Fusion_acc:0.7644
+epoch 11  train_FAB_loss:0.9669  train_FAB_acc:0.6554  val_FAB_loss:0.5574  val_FAB_acc:0.5857  Time:19.0 
+ ________train_ViT_loss:0.00408  train_ViT_acc:1.0    val_ViT_loss:0.4465  val_ViT_acc:0.7858 
+ ________train_Fusion_loss:0.01199  train_Fusion_acc:0.9911    val_Fusion_loss:0.2119  val_Fusion_acc:0.7872
+epoch 12  train_FAB_loss:1.107  train_FAB_acc:0.6788  val_FAB_loss:1.759  val_FAB_acc:0.5878  Time:19.0 
+ ________train_ViT_loss:0.003073  train_ViT_acc:1.0    val_ViT_loss:0.2679  val_ViT_acc:0.8112 
+ ________train_Fusion_loss:0.00346  train_Fusion_acc:0.997    val_Fusion_loss:0.2747  val_Fusion_acc:0.8055
+epoch 13  train_FAB_loss:0.8422  train_FAB_acc:0.7585  val_FAB_loss:0.5752  val_FAB_acc:0.6337  Time:19.0 
+ ________train_ViT_loss:0.001264  train_ViT_acc:1.0    val_ViT_loss:0.3428  val_ViT_acc:0.7915 
+ ________train_Fusion_loss:0.001137  train_Fusion_acc:1.0    val_Fusion_loss:0.1626  val_Fusion_acc:0.8055
+epoch 14  train_FAB_loss:0.3938  train_FAB_acc:0.7115  val_FAB_loss:1.159  val_FAB_acc:0.6145  Time:19.0 
+ ________train_ViT_loss:0.001613  train_ViT_acc:1.0    val_ViT_loss:0.328  val_ViT_acc:0.7701 
+ ________train_Fusion_loss:0.0009877  train_Fusion_acc:0.9985    val_Fusion_loss:0.2156  val_Fusion_acc:0.7885
+epoch 15  train_FAB_loss:1.053  train_FAB_acc:0.675  val_FAB_loss:0.4021  val_FAB_acc:0.5712  Time:19.0 
+ ________train_ViT_loss:0.002683  train_ViT_acc:1.0    val_ViT_loss:0.6185  val_ViT_acc:0.8029 
+ ________train_Fusion_loss:0.003906  train_Fusion_acc:1.0    val_Fusion_loss:0.3042  val_Fusion_acc:0.8169
+epoch 16  train_FAB_loss:0.6828  train_FAB_acc:0.834  val_FAB_loss:1.336  val_FAB_acc:0.701  Time:18.9 
+ ________train_ViT_loss:0.0007667  train_ViT_acc:1.0    val_ViT_loss:0.8713  val_ViT_acc:0.7959 
+ ________train_Fusion_loss:0.001037  train_Fusion_acc:1.0    val_Fusion_loss:0.5539  val_Fusion_acc:0.8199
+epoch 17  train_FAB_loss:0.6068  train_FAB_acc:0.7389  val_FAB_loss:1.538  val_FAB_acc:0.6473  Time:18.9 
+ ________train_ViT_loss:0.0009912  train_ViT_acc:1.0    val_ViT_loss:0.1616  val_ViT_acc:0.7601 
+ ________train_Fusion_loss:0.0009887  train_Fusion_acc:1.0    val_Fusion_loss:0.1826  val_Fusion_acc:0.7701
+epoch 18  train_FAB_loss:0.5101  train_FAB_acc:0.8263  val_FAB_loss:0.7534  val_FAB_acc:0.6652  Time:18.9 
+ ________train_ViT_loss:0.001142  train_ViT_acc:0.9985    val_ViT_loss:0.2604  val_ViT_acc:0.7941 
+ ________train_Fusion_loss:0.001707  train_Fusion_acc:0.9985    val_Fusion_loss:0.2623  val_Fusion_acc:0.8169
+epoch 19  train_FAB_loss:0.735  train_FAB_acc:0.8372  val_FAB_loss:0.896  val_FAB_acc:0.6853  Time:19.0 
+ ________train_ViT_loss:0.001468  train_ViT_acc:0.9985    val_ViT_loss:0.5976  val_ViT_acc:0.8029 
+ ________train_Fusion_loss:0.002159  train_Fusion_acc:0.9926    val_Fusion_loss:0.2862  val_Fusion_acc:0.8169
+epoch 20  train_FAB_loss:0.595  train_FAB_acc:0.7774  val_FAB_loss:1.337  val_FAB_acc:0.6372  Time:18.9 
+ ________train_ViT_loss:0.0007303  train_ViT_acc:1.0    val_ViT_loss:0.2507  val_ViT_acc:0.7758 
+ ________train_Fusion_loss:0.0007341  train_Fusion_acc:0.9953    val_Fusion_loss:0.3185  val_Fusion_acc:0.8112
+epoch 21  train_FAB_loss:0.7085  train_FAB_acc:0.8599  val_FAB_loss:0.9238  val_FAB_acc:0.6726  Time:18.9 
+ ________train_ViT_loss:0.0008241  train_ViT_acc:1.0    val_ViT_loss:0.2758  val_ViT_acc:0.7998 
+ ________train_Fusion_loss:0.002184  train_Fusion_acc:1.0    val_Fusion_loss:0.04571  val_Fusion_acc:0.8011
+epoch 22  train_FAB_loss:0.7806  train_FAB_acc:0.8282  val_FAB_loss:0.4449  val_FAB_acc:0.6635  Time:18.9 
+ ________train_ViT_loss:0.0003921  train_ViT_acc:1.0    val_ViT_loss:0.6492  val_ViT_acc:0.7972 
+ ________train_Fusion_loss:0.0005889  train_Fusion_acc:1.0    val_Fusion_loss:0.1677  val_Fusion_acc:0.8339
+epoch 23  train_FAB_loss:0.3399  train_FAB_acc:0.7953  val_FAB_loss:0.2466  val_FAB_acc:0.6565  Time:18.9 
+ ________train_ViT_loss:0.0002781  train_ViT_acc:1.0    val_ViT_loss:0.4362  val_ViT_acc:0.7758 
+ ________train_Fusion_loss:8.372e-05  train_Fusion_acc:1.0    val_Fusion_loss:0.02805  val_Fusion_acc:0.7898
+epoch 24  train_FAB_loss:0.503  train_FAB_acc:0.8414  val_FAB_loss:2.317  val_FAB_acc:0.6858  Time:18.9 
+ ________train_ViT_loss:0.0005649  train_ViT_acc:1.0    val_ViT_loss:0.1197  val_ViT_acc:0.7955 
+ ________train_Fusion_loss:0.0009792  train_Fusion_acc:1.0    val_Fusion_loss:0.2634  val_Fusion_acc:0.8212
+epoch 25  train_FAB_loss:0.5724  train_FAB_acc:0.8014  val_FAB_loss:2.726  val_FAB_acc:0.701  Time:18.9 
+ ________train_ViT_loss:0.008118  train_ViT_acc:0.9851    val_ViT_loss:0.6146  val_ViT_acc:0.7247 
+ ________train_Fusion_loss:0.003426  train_Fusion_acc:0.9866    val_Fusion_loss:0.6824  val_Fusion_acc:0.7631
+epoch 26  train_FAB_loss:0.1929  train_FAB_acc:0.7915  val_FAB_loss:0.3815  val_FAB_acc:0.5997  Time:18.9 
+ ________train_ViT_loss:0.0001409  train_ViT_acc:1.0    val_ViT_loss:0.4679  val_ViT_acc:0.8042 
+ ________train_Fusion_loss:8.455e-05  train_Fusion_acc:1.0    val_Fusion_loss:0.1544  val_Fusion_acc:0.7941
+epoch 27  train_FAB_loss:0.9115  train_FAB_acc:0.9101  val_FAB_loss:0.677  val_FAB_acc:0.7347  Time:18.9 
+ ________train_ViT_loss:0.000125  train_ViT_acc:1.0    val_ViT_loss:0.3139  val_ViT_acc:0.7941 
+ ________train_Fusion_loss:0.0003806  train_Fusion_acc:1.0    val_Fusion_loss:0.145  val_Fusion_acc:0.8112
+epoch 28  train_FAB_loss:0.3113  train_FAB_acc:0.9075  val_FAB_loss:0.4982  val_FAB_acc:0.7177  Time:18.9 
+ ________train_ViT_loss:0.0001803  train_ViT_acc:0.9985    val_ViT_loss:0.6726  val_ViT_acc:0.7928 
+ ________train_Fusion_loss:3.508e-05  train_Fusion_acc:1.0    val_Fusion_loss:0.4616  val_Fusion_acc:0.8112
+epoch 29  train_FAB_loss:0.4774  train_FAB_acc:0.9182  val_FAB_loss:0.3994  val_FAB_acc:0.6849  Time:19.1 
+ ________train_ViT_loss:0.001401  train_ViT_acc:0.997    val_ViT_loss:0.6312  val_ViT_acc:0.736 
+ ________train_Fusion_loss:0.007776  train_Fusion_acc:0.997    val_Fusion_loss:0.1963  val_Fusion_acc:0.7941
+epoch 30  train_FAB_loss:0.2246  train_FAB_acc:0.9494  val_FAB_loss:0.6175  val_FAB_acc:0.7902  Time:19.1 
+ ________train_ViT_loss:0.01418  train_ViT_acc:1.0    val_ViT_loss:0.8994  val_ViT_acc:0.7701 
+ ________train_Fusion_loss:0.0008815  train_Fusion_acc:1.0    val_Fusion_loss:0.7131  val_Fusion_acc:0.8156
+epoch 31  train_FAB_loss:0.4048  train_FAB_acc:0.8776  val_FAB_loss:1.103  val_FAB_acc:0.7264  Time:19.0 
+ ________train_ViT_loss:9.086e-05  train_ViT_acc:1.0    val_ViT_loss:0.5761  val_ViT_acc:0.7601 
+ ________train_Fusion_loss:3.408e-05  train_Fusion_acc:1.0    val_Fusion_loss:0.4819  val_Fusion_acc:0.8169
+epoch 32  train_FAB_loss:0.7497  train_FAB_acc:0.7015  val_FAB_loss:1.658  val_FAB_acc:0.6101  Time:18.9 
+ ________train_ViT_loss:0.001087  train_ViT_acc:0.9985    val_ViT_loss:0.2681  val_ViT_acc:0.7985 
+ ________train_Fusion_loss:0.002601  train_Fusion_acc:0.9985    val_Fusion_loss:0.327  val_Fusion_acc:0.8212
+epoch 33  train_FAB_loss:0.6132  train_FAB_acc:0.9371  val_FAB_loss:0.9199  val_FAB_acc:0.7163  Time:19.1 
+ ________train_ViT_loss:0.0001811  train_ViT_acc:1.0    val_ViT_loss:0.007109  val_ViT_acc:0.7898 
+ ________train_Fusion_loss:0.0001768  train_Fusion_acc:1.0    val_Fusion_loss:0.004929  val_Fusion_acc:0.8182
+epoch 34  train_FAB_loss:0.8576  train_FAB_acc:0.9475  val_FAB_loss:0.3768  val_FAB_acc:0.7928  Time:19.0 
+ ________train_ViT_loss:0.000533  train_ViT_acc:0.997    val_ViT_loss:0.4103  val_ViT_acc:0.7872 
+ ________train_Fusion_loss:0.03226  train_Fusion_acc:0.9985    val_Fusion_loss:0.3578  val_Fusion_acc:0.8055
+epoch 35  train_FAB_loss:0.316  train_FAB_acc:0.9509  val_FAB_loss:0.3643  val_FAB_acc:0.7531  Time:18.9 
+ ________train_ViT_loss:0.0001113  train_ViT_acc:1.0    val_ViT_loss:0.2928  val_ViT_acc:0.7601 
+ ________train_Fusion_loss:4.013e-05  train_Fusion_acc:1.0    val_Fusion_loss:0.1941  val_Fusion_acc:0.7941
+epoch 36  train_FAB_loss:0.3399  train_FAB_acc:0.9866  val_FAB_loss:0.4098  val_FAB_acc:0.7504  Time:18.9 
+ ________train_ViT_loss:0.0008066  train_ViT_acc:1.0    val_ViT_loss:0.7195  val_ViT_acc:0.8212 
+ ________train_Fusion_loss:0.001349  train_Fusion_acc:1.0    val_Fusion_loss:0.3657  val_Fusion_acc:0.8326
+epoch 37  train_FAB_loss:0.2847  train_FAB_acc:0.9179  val_FAB_loss:1.359  val_FAB_acc:0.66  Time:18.9 
+ ________train_ViT_loss:3.796e-05  train_ViT_acc:0.9985    val_ViT_loss:0.6336  val_ViT_acc:0.7771 
+ ________train_Fusion_loss:2.921e-06  train_Fusion_acc:1.0    val_Fusion_loss:0.5479  val_Fusion_acc:0.7985
+epoch 38  train_FAB_loss:0.2202  train_FAB_acc:0.9524  val_FAB_loss:0.06215  val_FAB_acc:0.75  Time:19.0 
+ ________train_ViT_loss:2.084e-05  train_ViT_acc:1.0    val_ViT_loss:0.3542  val_ViT_acc:0.7885 
+ ________train_Fusion_loss:2.512e-06  train_Fusion_acc:1.0    val_Fusion_loss:0.001037  val_Fusion_acc:0.8125
+epoch 39  train_FAB_loss:0.4363  train_FAB_acc:0.9762  val_FAB_loss:0.7345  val_FAB_acc:0.7264  Time:19.0 
+ ________train_ViT_loss:0.000109  train_ViT_acc:1.0    val_ViT_loss:0.8004  val_ViT_acc:0.7885 
+ ________train_Fusion_loss:5.279e-06  train_Fusion_acc:1.0    val_Fusion_loss:0.6858  val_Fusion_acc:0.8396
+epoch 40  train_FAB_loss:0.2088  train_FAB_acc:0.9836  val_FAB_loss:0.5299  val_FAB_acc:0.7605  Time:18.9 
+ ________train_ViT_loss:1.33e-05  train_ViT_acc:1.0    val_ViT_loss:2.208  val_ViT_acc:0.8016 
+ ________train_Fusion_loss:7.067e-07  train_Fusion_acc:1.0    val_Fusion_loss:1.449  val_Fusion_acc:0.8243
+epoch 41  train_FAB_loss:0.4885  train_FAB_acc:0.9792  val_FAB_loss:1.289  val_FAB_acc:0.7592  Time:19.0 
+ ________train_ViT_loss:2.658e-05  train_ViT_acc:0.9985    val_ViT_loss:0.5851  val_ViT_acc:0.7985 
+ ________train_Fusion_loss:4.445e-06  train_Fusion_acc:0.9985    val_Fusion_loss:0.41  val_Fusion_acc:0.8453
+epoch 42  train_FAB_loss:0.2359  train_FAB_acc:0.9509  val_FAB_loss:0.5183  val_FAB_acc:0.6993  Time:19.0 
+ ________train_ViT_loss:1.591e-05  train_ViT_acc:1.0    val_ViT_loss:1.33  val_ViT_acc:0.8129 
+ ________train_Fusion_loss:3.372e-06  train_Fusion_acc:1.0    val_Fusion_loss:0.6678  val_Fusion_acc:0.837
+epoch 43  train_FAB_loss:0.2717  train_FAB_acc:0.9807  val_FAB_loss:0.6117  val_FAB_acc:0.7745  Time:18.9 
+ ________train_ViT_loss:0.0004642  train_ViT_acc:1.0    val_ViT_loss:0.2578  val_ViT_acc:0.7928 
+ ________train_Fusion_loss:9.354e-05  train_Fusion_acc:1.0    val_Fusion_loss:0.03529  val_Fusion_acc:0.8352
+epoch 44  train_FAB_loss:0.07792  train_FAB_acc:0.9836  val_FAB_loss:0.6549  val_FAB_acc:0.7107  Time:18.9 
+ ________train_ViT_loss:1.239e-05  train_ViT_acc:0.9985    val_ViT_loss:0.6423  val_ViT_acc:0.8029 
+ ________train_Fusion_loss:2.469e-07  train_Fusion_acc:1.0    val_Fusion_loss:0.1582  val_Fusion_acc:0.8169
+epoch 45  train_FAB_loss:0.07918  train_FAB_acc:0.97  val_FAB_loss:0.6311  val_FAB_acc:0.7277  Time:18.9 
+ ________train_ViT_loss:1.397e-05  train_ViT_acc:0.9985    val_ViT_loss:1.605  val_ViT_acc:0.7719 
+ ________train_Fusion_loss:2.299e-07  train_Fusion_acc:0.9985    val_Fusion_loss:0.7534  val_Fusion_acc:0.8029
+epoch 46  train_FAB_loss:0.4457  train_FAB_acc:0.9524  val_FAB_loss:0.5741  val_FAB_acc:0.7915  Time:18.8 
+ ________train_ViT_loss:2.002e-05  train_ViT_acc:1.0    val_ViT_loss:1.401  val_ViT_acc:0.7959 
+ ________train_Fusion_loss:1.871e-05  train_Fusion_acc:1.0    val_Fusion_loss:1.296  val_Fusion_acc:0.8357
+epoch 47  train_FAB_loss:0.1312  train_FAB_acc:0.9747  val_FAB_loss:0.4725  val_FAB_acc:0.7531  Time:18.8 
+ ________train_ViT_loss:1.163e-05  train_ViT_acc:1.0    val_ViT_loss:1.437  val_ViT_acc:0.8427 
+ ________train_Fusion_loss:2.554e-08  train_Fusion_acc:1.0    val_Fusion_loss:0.8739  val_Fusion_acc:0.8781
+epoch 48  train_FAB_loss:0.04965  train_FAB_acc:0.997  val_FAB_loss:0.5111  val_FAB_acc:0.7391  Time:18.9 
+ ________train_ViT_loss:1.458e-05  train_ViT_acc:0.9985    val_ViT_loss:0.9629  val_ViT_acc:0.7815 
+ ________train_Fusion_loss:1.703e-08  train_Fusion_acc:0.9985    val_Fusion_loss:0.8323  val_Fusion_acc:0.7985
+epoch 49  train_FAB_loss:0.1101  train_FAB_acc:0.997  val_FAB_loss:0.4202  val_FAB_acc:0.7701  Time:18.9 
+ ________train_ViT_loss:1.01e-05  train_ViT_acc:0.9985    val_ViT_loss:1.192  val_ViT_acc:0.7915 
+ ________train_Fusion_loss:2.725e-07  train_Fusion_acc:1.0    val_Fusion_loss:0.935  val_Fusion_acc:0.8269
+epoch 50  train_FAB_loss:0.312  train_FAB_acc:0.9345  val_FAB_loss:0.2266  val_FAB_acc:0.7373  Time:18.9 
+ ________train_ViT_loss:9.358e-06  train_ViT_acc:1.0    val_ViT_loss:0.9038  val_ViT_acc:0.7644 
+ ________train_Fusion_loss:1.916e-06  train_Fusion_acc:1.0    val_Fusion_loss:0.2601  val_Fusion_acc:0.7941
+epoch 51  train_FAB_loss:0.04953  train_FAB_acc:0.9985  val_FAB_loss:0.4941  val_FAB_acc:0.7858  Time:18.8 
+ ________train_ViT_loss:4.394e-06  train_ViT_acc:1.0    val_ViT_loss:0.8229  val_ViT_acc:0.7771 
+ ________train_Fusion_loss:8.515e-09  train_Fusion_acc:1.0    val_Fusion_loss:0.5163  val_Fusion_acc:0.8226
+epoch 52  train_FAB_loss:0.1024  train_FAB_acc:0.9985  val_FAB_loss:0.2684  val_FAB_acc:0.7657  Time:18.8 
+ ________train_ViT_loss:1.696e-05  train_ViT_acc:1.0    val_ViT_loss:0.7069  val_ViT_acc:0.7885 
+ ________train_Fusion_loss:1.873e-07  train_Fusion_acc:1.0    val_Fusion_loss:0.2301  val_Fusion_acc:0.8112
+epoch 53  train_FAB_loss:0.06785  train_FAB_acc:1.0  val_FAB_loss:0.5179  val_FAB_acc:0.7745  Time:18.8 
+ ________train_ViT_loss:1.507e-06  train_ViT_acc:1.0    val_ViT_loss:1.211  val_ViT_acc:0.8156 
+ ________train_Fusion_loss:0.0  train_Fusion_acc:1.0    val_Fusion_loss:0.9337  val_Fusion_acc:0.844
+epoch 54  train_FAB_loss:0.3775  train_FAB_acc:1.0  val_FAB_loss:0.4643  val_FAB_acc:0.8042  Time:18.9 
+ ________train_ViT_loss:1.873e-06  train_ViT_acc:0.9985    val_ViT_loss:1.002  val_ViT_acc:0.7928 
+ ________train_Fusion_loss:1.788e-07  train_Fusion_acc:0.9985    val_Fusion_loss:0.6313  val_Fusion_acc:0.8099
+epoch 55  train_FAB_loss:0.03363  train_FAB_acc:1.0  val_FAB_loss:0.5  val_FAB_acc:0.7788  Time:18.8 
+ ________train_ViT_loss:1.95e-06  train_ViT_acc:1.0    val_ViT_loss:1.284  val_ViT_acc:0.8186 
+ ________train_Fusion_loss:0.0  train_Fusion_acc:1.0    val_Fusion_loss:1.029  val_Fusion_acc:0.854
+epoch 56  train_FAB_loss:0.004714  train_FAB_acc:1.0  val_FAB_loss:0.5928  val_FAB_acc:0.7802  Time:18.9 
+ ________train_ViT_loss:1.873e-06  train_ViT_acc:1.0    val_ViT_loss:0.7083  val_ViT_acc:0.8042 
+ ________train_Fusion_loss:0.0  train_Fusion_acc:1.0    val_Fusion_loss:0.4315  val_Fusion_acc:0.8156
+epoch 57  train_FAB_loss:0.1223  train_FAB_acc:1.0  val_FAB_loss:0.4945  val_FAB_acc:0.7985  Time:18.9 
+ ________train_ViT_loss:1.294e-06  train_ViT_acc:1.0    val_ViT_loss:1.013  val_ViT_acc:0.8156 
+ ________train_Fusion_loss:1.958e-07  train_Fusion_acc:1.0    val_Fusion_loss:0.7501  val_Fusion_acc:0.8326
+epoch 58  train_FAB_loss:0.05867  train_FAB_acc:1.0  val_FAB_loss:0.2184  val_FAB_acc:0.7714  Time:18.8 
+ ________train_ViT_loss:1.754e-06  train_ViT_acc:1.0    val_ViT_loss:2.03  val_ViT_acc:0.8186 
+ ________train_Fusion_loss:2.554e-08  train_Fusion_acc:1.0    val_Fusion_loss:0.9167  val_Fusion_acc:0.8357
+epoch 59  train_FAB_loss:0.1162  train_FAB_acc:1.0  val_FAB_loss:0.1527  val_FAB_acc:0.7601  Time:18.9 
+ ________train_ViT_loss:7.408e-07  train_ViT_acc:1.0    val_ViT_loss:0.8152  val_ViT_acc:0.7815 
+ ________train_Fusion_loss:2.554e-08  train_Fusion_acc:1.0    val_Fusion_loss:0.377  val_Fusion_acc:0.8099
+epoch 60  train_FAB_loss:0.1073  train_FAB_acc:1.0  val_FAB_loss:0.2694  val_FAB_acc:0.8339  Time:18.9 
+ ________train_ViT_loss:6.982e-07  train_ViT_acc:1.0    val_ViT_loss:0.6193  val_ViT_acc:0.7872 
+ ________train_Fusion_loss:9.366e-08  train_Fusion_acc:1.0    val_Fusion_loss:0.2626  val_Fusion_acc:0.8112
+epoch 61  train_FAB_loss:0.08995  train_FAB_acc:1.0  val_FAB_loss:0.1072  val_FAB_acc:0.7544  Time:18.9 
+ ________train_ViT_loss:4.428e-07  train_ViT_acc:1.0    val_ViT_loss:1.031  val_ViT_acc:0.8042 
+ ________train_Fusion_loss:8.515e-09  train_Fusion_acc:1.0    val_Fusion_loss:0.6016  val_Fusion_acc:0.8042
+epoch 62  train_FAB_loss:0.02431  train_FAB_acc:1.0  val_FAB_loss:0.2424  val_FAB_acc:0.8042  Time:18.9 
+ ________train_ViT_loss:4.598e-07  train_ViT_acc:1.0    val_ViT_loss:1.158  val_ViT_acc:0.7644 
+ ________train_Fusion_loss:0.0  train_Fusion_acc:1.0    val_Fusion_loss:0.8205  val_Fusion_acc:0.7928
+epoch 63  train_FAB_loss:0.004723  train_FAB_acc:1.0  val_FAB_loss:0.8413  val_FAB_acc:0.7972  Time:19.0 
+ ________train_ViT_loss:3.406e-07  train_ViT_acc:1.0    val_ViT_loss:1.45  val_ViT_acc:0.8099 
+ ________train_Fusion_loss:0.0  train_Fusion_acc:1.0    val_Fusion_loss:1.131  val_Fusion_acc:0.8269
+epoch 64  train_FAB_loss:0.0227  train_FAB_acc:1.0  val_FAB_loss:0.4291  val_FAB_acc:0.8042  Time:18.9 
+ ________train_ViT_loss:3.151e-07  train_ViT_acc:0.9985    val_ViT_loss:2.297  val_ViT_acc:0.8086 
+ ________train_Fusion_loss:0.0  train_Fusion_acc:0.9985    val_Fusion_loss:1.904  val_Fusion_acc:0.837
+epoch 65  train_FAB_loss:0.002017  train_FAB_acc:1.0  val_FAB_loss:0.7033  val_FAB_acc:0.8086  Time:18.9 
+ ________train_ViT_loss:3.917e-07  train_ViT_acc:1.0    val_ViT_loss:0.4684  val_ViT_acc:0.7644 
+ ________train_Fusion_loss:0.0  train_Fusion_acc:1.0    val_Fusion_loss:0.2737  val_Fusion_acc:0.7941
+epoch 66  train_FAB_loss:0.01031  train_FAB_acc:1.0  val_FAB_loss:0.2302  val_FAB_acc:0.7872  Time:18.9 
+ ________train_ViT_loss:2.129e-07  train_ViT_acc:1.0    val_ViT_loss:1.231  val_ViT_acc:0.7815 
+ ________train_Fusion_loss:0.0  train_Fusion_acc:1.0    val_Fusion_loss:0.7525  val_Fusion_acc:0.8269
+epoch 67  train_FAB_loss:0.008472  train_FAB_acc:1.0  val_FAB_loss:0.5583  val_FAB_acc:0.7972  Time:18.8 
+ ________train_ViT_loss:4.087e-07  train_ViT_acc:0.9985    val_ViT_loss:1.848  val_ViT_acc:0.8086 
+ ________train_Fusion_loss:0.0  train_Fusion_acc:1.0    val_Fusion_loss:1.524  val_Fusion_acc:0.8497
+epoch 68  train_FAB_loss:0.3699  train_FAB_acc:1.0  val_FAB_loss:0.07879  val_FAB_acc:0.7316  Time:18.8 
+ ________train_ViT_loss:4.854e-07  train_ViT_acc:1.0    val_ViT_loss:0.8333  val_ViT_acc:0.7644 
+ ________train_Fusion_loss:4.598e-07  train_Fusion_acc:1.0    val_Fusion_loss:0.3123  val_Fusion_acc:0.7985
+epoch 69  train_FAB_loss:0.002025  train_FAB_acc:1.0  val_FAB_loss:0.3262  val_FAB_acc:0.7985  Time:18.8 
+ ________train_ViT_loss:1.788e-07  train_ViT_acc:1.0    val_ViT_loss:1.164  val_ViT_acc:0.7815 
+ ________train_Fusion_loss:0.0  train_Fusion_acc:1.0    val_Fusion_loss:0.8912  val_Fusion_acc:0.8156
+epoch 70  train_FAB_loss:0.0002311  train_FAB_acc:1.0  val_FAB_loss:0.2972  val_FAB_acc:0.7985  Time:18.8 
+ ________train_ViT_loss:4.683e-07  train_ViT_acc:0.9985    val_ViT_loss:0.1301  val_ViT_acc:0.7544 
+ ________train_Fusion_loss:0.0  train_Fusion_acc:0.9985    val_Fusion_loss:0.001334  val_Fusion_acc:0.7955
+epoch 71  train_FAB_loss:0.01052  train_FAB_acc:0.9985  val_FAB_loss:0.2356  val_FAB_acc:0.8042  Time:18.8 
+ ________train_ViT_loss:5.024e-07  train_ViT_acc:1.0    val_ViT_loss:1.374  val_ViT_acc:0.7758 
+ ________train_Fusion_loss:0.0  train_Fusion_acc:1.0    val_Fusion_loss:0.7741  val_Fusion_acc:0.7985
+epoch 72  train_FAB_loss:0.223  train_FAB_acc:0.9985  val_FAB_loss:0.03879  val_FAB_acc:0.8125  Time:18.8 
+ ________train_ViT_loss:1.107e-07  train_ViT_acc:1.0    val_ViT_loss:1.303  val_ViT_acc:0.8156 
+ ________train_Fusion_loss:1.703e-08  train_Fusion_acc:1.0    val_Fusion_loss:0.6724  val_Fusion_acc:0.8269
+epoch 73  train_FAB_loss:0.3211  train_FAB_acc:0.9985  val_FAB_loss:0.2028  val_FAB_acc:0.7758  Time:18.8 
+ ________train_ViT_loss:1.022e-07  train_ViT_acc:1.0    val_ViT_loss:1.318  val_ViT_acc:0.8099 
+ ________train_Fusion_loss:9.366e-08  train_Fusion_acc:1.0    val_Fusion_loss:0.9109  val_Fusion_acc:0.8156
+epoch 74  train_FAB_loss:0.0007557  train_FAB_acc:0.9985  val_FAB_loss:0.5122  val_FAB_acc:0.8156  Time:18.8 
+ ________train_ViT_loss:5.96e-08  train_ViT_acc:1.0    val_ViT_loss:1.335  val_ViT_acc:0.8156 
+ ________train_Fusion_loss:0.0  train_Fusion_acc:1.0    val_Fusion_loss:0.9977  val_Fusion_acc:0.844
+epoch 75  train_FAB_loss:0.004083  train_FAB_acc:0.9985  val_FAB_loss:0.7326  val_FAB_acc:0.7985  Time:18.8 
+ ________train_ViT_loss:4.257e-08  train_ViT_acc:1.0    val_ViT_loss:1.349  val_ViT_acc:0.8156 
+ ________train_Fusion_loss:0.0  train_Fusion_acc:1.0    val_Fusion_loss:1.22  val_Fusion_acc:0.8326
+epoch 76  train_FAB_loss:0.02542  train_FAB_acc:0.9985  val_FAB_loss:0.6001  val_FAB_acc:0.7985  Time:18.8 
+ ________train_ViT_loss:1.107e-07  train_ViT_acc:1.0    val_ViT_loss:1.348  val_ViT_acc:0.8156 
+ ________train_Fusion_loss:0.0  train_Fusion_acc:1.0    val_Fusion_loss:1.217  val_Fusion_acc:0.8326
+epoch 77  train_FAB_loss:0.007797  train_FAB_acc:1.0  val_FAB_loss:0.4334  val_FAB_acc:0.8156  Time:18.7 
+ ________train_ViT_loss:6.812e-08  train_ViT_acc:1.0    val_ViT_loss:1.347  val_ViT_acc:0.8269 
+ ________train_Fusion_loss:0.0  train_Fusion_acc:1.0    val_Fusion_loss:1.129  val_Fusion_acc:0.8326
+epoch 78  train_FAB_loss:0.005254  train_FAB_acc:1.0  val_FAB_loss:0.2206  val_FAB_acc:0.7872  Time:18.8 
+ ________train_ViT_loss:5.109e-08  train_ViT_acc:1.0    val_ViT_loss:1.346  val_ViT_acc:0.8269 
+ ________train_Fusion_loss:0.0  train_Fusion_acc:1.0    val_Fusion_loss:0.9662  val_Fusion_acc:0.8383
+epoch 79  train_FAB_loss:0.002529  train_FAB_acc:1.0  val_FAB_loss:0.1881  val_FAB_acc:0.8226  Time:18.8 
+ ________train_ViT_loss:5.96e-08  train_ViT_acc:1.0    val_ViT_loss:1.346  val_ViT_acc:0.8269 
+ ________train_Fusion_loss:0.0  train_Fusion_acc:1.0    val_Fusion_loss:0.9582  val_Fusion_acc:0.8383
+epoch 80  train_FAB_loss:0.02405  train_FAB_acc:1.0  val_FAB_loss:0.2344  val_FAB_acc:0.7928  Time:18.8 
+ ________train_ViT_loss:5.96e-08  train_ViT_acc:1.0    val_ViT_loss:1.346  val_ViT_acc:0.8269 
+ ________train_Fusion_loss:8.515e-09  train_Fusion_acc:1.0    val_Fusion_loss:1.011  val_Fusion_acc:0.8326
+epoch 81  train_FAB_loss:0.004203  train_FAB_acc:1.0  val_FAB_loss:0.3407  val_FAB_acc:0.8156  Time:18.8 
+ ________train_ViT_loss:6.812e-08  train_ViT_acc:1.0    val_ViT_loss:1.345  val_ViT_acc:0.8269 
+ ________train_Fusion_loss:0.0  train_Fusion_acc:1.0    val_Fusion_loss:1.055  val_Fusion_acc:0.8383
+epoch 82  train_FAB_loss:0.0311  train_FAB_acc:0.9985  val_FAB_loss:0.6403  val_FAB_acc:0.8142  Time:18.8 
+ ________train_ViT_loss:2.554e-08  train_ViT_acc:1.0    val_ViT_loss:1.345  val_ViT_acc:0.8269 
+ ________train_Fusion_loss:0.0  train_Fusion_acc:1.0    val_Fusion_loss:1.178  val_Fusion_acc:0.8326
+epoch 83  train_FAB_loss:0.00238  train_FAB_acc:1.0  val_FAB_loss:0.2585  val_FAB_acc:0.8112  Time:18.8 
+ ________train_ViT_loss:3.406e-08  train_ViT_acc:1.0    val_ViT_loss:1.345  val_ViT_acc:0.8269 
+ ________train_Fusion_loss:0.0  train_Fusion_acc:1.0    val_Fusion_loss:1.006  val_Fusion_acc:0.8326
+epoch 84  train_FAB_loss:0.005207  train_FAB_acc:1.0  val_FAB_loss:0.2818  val_FAB_acc:0.7872  Time:18.8 
+ ________train_ViT_loss:5.109e-08  train_ViT_acc:1.0    val_ViT_loss:1.344  val_ViT_acc:0.8269 
+ ________train_Fusion_loss:0.0  train_Fusion_acc:1.0    val_Fusion_loss:1.0  val_Fusion_acc:0.8326
+epoch 85  train_FAB_loss:0.2273  train_FAB_acc:1.0  val_FAB_loss:0.5197  val_FAB_acc:0.8029  Time:18.8 
+ ________train_ViT_loss:8.515e-09  train_ViT_acc:1.0    val_ViT_loss:1.344  val_ViT_acc:0.8269 
+ ________train_Fusion_loss:8.515e-09  train_Fusion_acc:1.0    val_Fusion_loss:1.075  val_Fusion_acc:0.8383
+epoch 86  train_FAB_loss:0.005675  train_FAB_acc:0.9985  val_FAB_loss:0.1828  val_FAB_acc:0.8169  Time:18.8 
+ ________train_ViT_loss:0.0  train_ViT_acc:1.0    val_ViT_loss:1.347  val_ViT_acc:0.8269 
+ ________train_Fusion_loss:0.0  train_Fusion_acc:1.0    val_Fusion_loss:0.8694  val_Fusion_acc:0.8383
+epoch 87  train_FAB_loss:0.08419  train_FAB_acc:1.0  val_FAB_loss:0.5032  val_FAB_acc:0.8099  Time:18.8 
+ ________train_ViT_loss:4.257e-08  train_ViT_acc:1.0    val_ViT_loss:1.482  val_ViT_acc:0.8212 
+ ________train_Fusion_loss:0.0  train_Fusion_acc:1.0    val_Fusion_loss:1.149  val_Fusion_acc:0.844
+epoch 88  train_FAB_loss:0.003782  train_FAB_acc:1.0  val_FAB_loss:0.5474  val_FAB_acc:0.8383  Time:18.9 
+ ________train_ViT_loss:1.277e-07  train_ViT_acc:1.0    val_ViT_loss:1.478  val_ViT_acc:0.8269 
+ ________train_Fusion_loss:0.0  train_Fusion_acc:1.0    val_Fusion_loss:1.11  val_Fusion_acc:0.8497
+epoch 89  train_FAB_loss:0.06695  train_FAB_acc:1.0  val_FAB_loss:0.2898  val_FAB_acc:0.8099  Time:18.9 
+ ________train_ViT_loss:4.257e-08  train_ViT_acc:1.0    val_ViT_loss:1.475  val_ViT_acc:0.8212 
+ ________train_Fusion_loss:0.0  train_Fusion_acc:1.0    val_Fusion_loss:1.085  val_Fusion_acc:0.844
+epoch 90  train_FAB_loss:0.000861  train_FAB_acc:0.9985  val_FAB_loss:0.4347  val_FAB_acc:0.8256  Time:18.9 
+ ________train_ViT_loss:2.554e-08  train_ViT_acc:1.0    val_ViT_loss:1.47  val_ViT_acc:0.8269 
+ ________train_Fusion_loss:0.0  train_Fusion_acc:1.0    val_Fusion_loss:1.055  val_Fusion_acc:0.844
+epoch 91  train_FAB_loss:0.001774  train_FAB_acc:1.0  val_FAB_loss:0.2385  val_FAB_acc:0.7885  Time:18.9 
+ ________train_ViT_loss:3.406e-08  train_ViT_acc:1.0    val_ViT_loss:1.466  val_ViT_acc:0.8269 
+ ________train_Fusion_loss:0.0  train_Fusion_acc:1.0    val_Fusion_loss:1.086  val_Fusion_acc:0.844
+epoch 92  train_FAB_loss:0.008295  train_FAB_acc:1.0  val_FAB_loss:0.2414  val_FAB_acc:0.8339  Time:18.9 
+ ________train_ViT_loss:1.703e-08  train_ViT_acc:1.0    val_ViT_loss:1.462  val_ViT_acc:0.8269 
+ ________train_Fusion_loss:0.0  train_Fusion_acc:1.0    val_Fusion_loss:1.002  val_Fusion_acc:0.8497
+epoch 93  train_FAB_loss:0.01095  train_FAB_acc:0.9985  val_FAB_loss:0.3582  val_FAB_acc:0.8256  Time:18.8 
+ ________train_ViT_loss:4.257e-08  train_ViT_acc:1.0    val_ViT_loss:1.459  val_ViT_acc:0.8269 
+ ________train_Fusion_loss:8.515e-09  train_Fusion_acc:1.0    val_Fusion_loss:1.04  val_Fusion_acc:0.8497
+epoch 94  train_FAB_loss:0.02323  train_FAB_acc:0.9985  val_FAB_loss:0.165  val_FAB_acc:0.8112  Time:18.9 
+ ________train_ViT_loss:2.554e-08  train_ViT_acc:1.0    val_ViT_loss:1.455  val_ViT_acc:0.8212 
+ ________train_Fusion_loss:0.0  train_Fusion_acc:1.0    val_Fusion_loss:0.9557  val_Fusion_acc:0.8497
+epoch 95  train_FAB_loss:0.004713  train_FAB_acc:1.0  val_FAB_loss:0.3113  val_FAB_acc:0.8156  Time:18.8 
+ ________train_ViT_loss:1.703e-08  train_ViT_acc:1.0    val_ViT_loss:1.452  val_ViT_acc:0.8212 
+ ________train_Fusion_loss:0.0  train_Fusion_acc:1.0    val_Fusion_loss:1.022  val_Fusion_acc:0.8497
+epoch 96  train_FAB_loss:0.0131  train_FAB_acc:1.0  val_FAB_loss:0.1773  val_FAB_acc:0.7828  Time:18.8 
+ ________train_ViT_loss:2.554e-08  train_ViT_acc:1.0    val_ViT_loss:1.452  val_ViT_acc:0.8212 
+ ________train_Fusion_loss:0.0  train_Fusion_acc:1.0    val_Fusion_loss:1.004  val_Fusion_acc:0.844
+epoch 97  train_FAB_loss:0.0002409  train_FAB_acc:1.0  val_FAB_loss:0.3775  val_FAB_acc:0.8042  Time:18.8 
+ ________train_ViT_loss:2.554e-08  train_ViT_acc:1.0    val_ViT_loss:1.449  val_ViT_acc:0.8212 
+ ________train_Fusion_loss:0.0  train_Fusion_acc:1.0    val_Fusion_loss:1.043  val_Fusion_acc:0.8383
+epoch 98  train_FAB_loss:0.01518  train_FAB_acc:0.9985  val_FAB_loss:0.3002  val_FAB_acc:0.8156  Time:18.8 
+ ________train_ViT_loss:1.703e-08  train_ViT_acc:1.0    val_ViT_loss:1.447  val_ViT_acc:0.8212 
+ ________train_Fusion_loss:0.0  train_Fusion_acc:1.0    val_Fusion_loss:1.016  val_Fusion_acc:0.844
+epoch 99  train_FAB_loss:1.354  train_FAB_acc:1.0  val_FAB_loss:0.3744  val_FAB_acc:0.8099  Time:18.8 
+ ________train_ViT_loss:1.703e-08  train_ViT_acc:1.0    val_ViT_loss:1.444  val_ViT_acc:0.8212 
+ ________train_Fusion_loss:1.533e-07  train_Fusion_acc:1.0    val_Fusion_loss:1.094  val_Fusion_acc:0.8383
+epoch 100  train_FAB_loss:0.003039  train_FAB_acc:1.0  val_FAB_loss:0.2533  val_FAB_acc:0.7985  Time:18.8 
+ ________train_ViT_loss:2.554e-08  train_ViT_acc:1.0    val_ViT_loss:1.442  val_ViT_acc:0.8212 
+ ________train_Fusion_loss:0.0  train_Fusion_acc:1.0    val_Fusion_loss:0.9733  val_Fusion_acc:0.844
+train_FAB_acc:1.0  val_FAB_acc:0.7985  test_FAB_acc:0.7688 
+ train_ViT_acc:1.0  val_ViT_acc:0.8212  test_ViT_acc:0.8357 
+ train_Fusion_acc:1.0  val_Fusion_acc:0.844  test_Fusion_acc:0.8641
