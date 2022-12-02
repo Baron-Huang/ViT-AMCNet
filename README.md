@@ -8,4 +8,13 @@ The tumor grading of laryngeal cancer pathological images needs to be accurate a
 Huang, Pan, et al. "A ViT-AMC Network with Adaptive Model Fusion and Multiobjective Optimization for Interpretable Laryngeal Tumor Grading from Histopathological Images." IEEE Transactions on Medical Imaging (2022).DOI: 10.1109/TMI.2022.3202248
 
 # Notice
-We fixed the random seeds, and the effect is consistent on different GPUs on the same server, but there may be subtle differences if the server is changed, and such differences are caused by Pytorch's random method, which we cannot solve. Second, if you replace other datasets for experiments, the hyperparameters mentioned in the text may not be optimal, please re-optimize them, and most importantly, optimize the learning rate. If you have any doubts, please do not hesitate to contact panhuang@cqu.edu.cn.
+1. We fixed the random seeds, and the effect is consistent on different GPUs on the same server, but there may be subtle differences if the server is changed, and such differences are caused by Pytorch's random method, which we cannot solve. 
+2. if you replace other datasets for experiments, the hyperparameters mentioned in the text may not be optimal, please re-optimize them, and most importantly, optimize the learning rate. If you have any doubts, please do not hesitate to contact panhuang@cqu.edu.cn.
+3. The dataset in this paper was requested from the Medical Signal Processing Laboratory of the University of Athens, and we do not have the permission to upload its data, so interested parties can request it from the University of Greece (link in the dataset section of the paper).
+4. The algorithms and ideas in this paper are for scientific study and research only, and commercial activities are prohibited. If you refer to the improvement methods of the ideas in this paper, please follow the principles of academic norms and cite this paper.
+
+# API
+d2l 0.17.5 numpy 1.21.5 
+scikit-image 0.18.3 scikit-learn 0.24.2 
+torch 1.9.0+cu111 torchvision 0.10.0+cu111 
+xlrd 2.0.1 Python 3.7.9 Cuda V11.1.105
