@@ -26,6 +26,7 @@ Huang, Pan, et al. "A ViT-AMC Network with Adaptive Model Fusion and Multiobject
 |numpy|1.21.5|
 |scikit-image|0.18.3|
 |scikit-learn|0.24.2|
+|torch|1.9.0+cu111|
 |torchvision|0.10.0+cu111|
 |Python|3.7.9|
 |Cuda|11.1.105|
