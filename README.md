@@ -1,4 +1,5 @@
-# ViT-AMCNet: A ViT-AMC Network with Adaptive Model Fusion and Multiobjective Optimization for Interpretable Laryngeal Tumor Grading from Histopathological Images (IEEE Transactions on Medical Imaging 2022)
+# ViT-AMCNet: A ViT-AMC Network with Adaptive Model Fusion and Multiobjective Optimization for Interpretable Laryngeal Tumor Grading from Histopathological Images (IEEE Transactions on Medical Imaging 2023)
+Pan Huang, Student Member, IEEE, Peng He, Sukun Tian, Mingrui Ma, Peng Feng, Member, IEEE, Hualiang Xiao, Francesco Mercaldo, Antonella Santone, and Jing Qin, Senior Member, IEEE
 
 ***
 # Introduction
@@ -9,7 +10,7 @@ The tumor grading of laryngeal cancer pathological images needs to be accurate a
 
 ---
 # Citing ViT-AMCNet
-Huang, Pan, et al. "A ViT-AMC Network with Adaptive Model Fusion and Multiobjective Optimization for Interpretable Laryngeal Tumor Grading from Histopathological Images." IEEE Transactions on Medical Imaging (2022).DOI: 10.1109/TMI.2022.3202248
+Huang, Pan, et al. "A ViT-AMC Network with Adaptive Model Fusion and Multiobjective Optimization for Interpretable Laryngeal Tumor Grading from Histopathological Images." IEEE Transactions on Medical Imaging (2023).DOI: 10.1109/TMI.2022.3202248
 
 ---
 # Notice
