@@ -7,6 +7,8 @@ The tumor grading of laryngeal cancer pathological images needs to be accurate a
 
 ---
 ![image](https://raw.githubusercontent.com/Baron-Huang/ViT-AMCNet/main/Img/main.jpg)
+Fig. 2. Overview of the proposed end-to-end ViT-AMCNet for the diagnosis of laryngeal squamous cell carcinoma.
+
 
 ---
 # Citing ViT-AMCNet
